@@ -1,8 +1,8 @@
 module.exports = {
-    HOST: "uplinkmx.com",
-    USER: "tasker",
-    PASSWORD: "0oT9z_5v",
-    DB: "uplinkmx_task",
+    HOST: --,
+    USER: --,
+    PASSWORD:--,
+    DB: --,
     dialect: "mysql",
     pool: {
       max: 5,
